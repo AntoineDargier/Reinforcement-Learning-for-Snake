@@ -14,9 +14,11 @@ Creation of an environment and implementation of several agents to play the Snak
 
 ### Results visualization
 1. Without crossing conditions
+   
 ![](https://github.com/AntoineDargier/Reinforcement-Learning-for-Snake/blob/main/snake_game_DQN.gif)
 
-2. With crossing conditions
+3. With crossing conditions
+   
 ![](https://github.com/AntoineDargier/Reinforcement-Learning-for-Snake/blob/main/snake_game_ES_bound.gif)
 
 ### Libraries
